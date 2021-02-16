@@ -17,7 +17,9 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://saxobroko.com/favicon.png
+  favicon: https://saxobroko.com/favicon.png
   name: Status- Saxo_Broko
+  theme: dark
   introTitle: "Saxo_Broko's Uptime Status"
   introMessage: Use this to see if theres a problem with the website, or you
   navbar:
