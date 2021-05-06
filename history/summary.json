@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 177,
     "timeDay": 0,
-    "timeWeek": 130,
+    "timeWeek": 127,
     "timeMonth": 198,
     "timeYear": 177,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 225,
     "timeDay": 0,
-    "timeWeek": 117,
+    "timeWeek": 118,
     "timeMonth": 207,
     "timeYear": 225,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 149,
     "timeDay": 0,
-    "timeWeek": 122,
+    "timeWeek": 124,
     "timeMonth": 139,
     "timeYear": 149,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 162,
     "timeDay": 0,
-    "timeWeek": 150,
+    "timeWeek": 109,
     "timeMonth": 176,
     "timeYear": 162,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 157,
     "timeDay": 0,
-    "timeWeek": 111,
+    "timeWeek": 115,
     "timeMonth": 144,
     "timeYear": 157,
     "dailyMinutesDown": {}
@@ -94,7 +94,7 @@
     "url": "https://ipfs.saxobroko.com",
     "icon": "https://favicons.githubusercontent.com/ipfs.saxobroko.com",
     "slug": "ipfs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
