@@ -94,17 +94,17 @@
     "url": "https://ipfs.saxobroko.com",
     "icon": "https://favicons.githubusercontent.com/ipfs.saxobroko.com",
     "slug": "ipfs",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 438,
-    "timeDay": 291,
-    "timeWeek": 396,
-    "timeMonth": 438,
-    "timeYear": 438,
+    "time": 439,
+    "timeDay": 323,
+    "timeWeek": 399,
+    "timeMonth": 439,
+    "timeYear": 439,
     "dailyMinutesDown": {}
   }
 ]
