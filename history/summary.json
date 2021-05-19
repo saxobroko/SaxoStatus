@@ -13,7 +13,7 @@
     "time": 169,
     "timeDay": 167,
     "timeWeek": 110,
-    "timeMonth": 133,
+    "timeMonth": 130,
     "timeYear": 169,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 211,
     "timeDay": 126,
     "timeWeek": 106,
-    "timeMonth": 137,
+    "timeMonth": 136,
     "timeYear": 211,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 142,
     "timeDay": 131,
     "timeWeek": 96,
-    "timeMonth": 102,
+    "timeMonth": 101,
     "timeYear": 142,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 148,
     "timeDay": 276,
     "timeWeek": 120,
-    "timeMonth": 106,
+    "timeMonth": 102,
     "timeYear": 148,
     "dailyMinutesDown": {}
   },
@@ -94,16 +94,16 @@
     "url": "https://ipfs.saxobroko.com",
     "icon": "https://favicons.githubusercontent.com/ipfs.saxobroko.com",
     "slug": "ipfs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 454,
-    "timeDay": 405,
-    "timeWeek": 453,
-    "timeMonth": 454,
+    "timeDay": 416,
+    "timeWeek": 451,
+    "timeMonth": 453,
     "timeYear": 454,
     "dailyMinutesDown": {}
   }
