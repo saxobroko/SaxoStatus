@@ -16,6 +16,8 @@ sites:
     url: https://alt2.saxobroko.com
   - name: ipfs
     url: https://ipfs.saxobroko.com
+  - name: Discord Bot
+    url: https://music.saxobroko.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
