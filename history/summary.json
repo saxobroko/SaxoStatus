@@ -112,17 +112,17 @@
     "url": "https://music.saxobroko.com",
     "icon": "https://favicons.githubusercontent.com/music.saxobroko.com",
     "slug": "discord-bot",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1911,
-    "timeDay": 8938,
-    "timeWeek": 2110,
-    "timeMonth": 3396,
-    "timeYear": 1911,
+    "time": 1908,
+    "timeDay": 4828,
+    "timeWeek": 2011,
+    "timeMonth": 3376,
+    "timeYear": 1908,
     "dailyMinutesDown": {}
   }
 ]
