@@ -13,7 +13,7 @@
     "time": 104,
     "timeDay": 123,
     "timeWeek": 94,
-    "timeMonth": 134,
+    "timeMonth": 136,
     "timeYear": 105,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 96,
     "timeDay": 128,
     "timeWeek": 101,
-    "timeMonth": 99,
+    "timeMonth": 100,
     "timeYear": 96,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 94,
     "timeDay": 128,
     "timeWeek": 103,
-    "timeMonth": 96,
+    "timeMonth": 98,
     "timeYear": 92,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 87,
     "timeDay": 124,
     "timeWeek": 81,
-    "timeMonth": 85,
+    "timeMonth": 87,
     "timeYear": 87,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 86,
     "timeDay": 127,
     "timeWeek": 86,
-    "timeMonth": 120,
+    "timeMonth": 122,
     "timeYear": 88,
     "dailyMinutesDown": {}
   },
@@ -112,17 +112,17 @@
     "url": "https://music.saxobroko.com",
     "icon": "https://favicons.githubusercontent.com/music.saxobroko.com",
     "slug": "discord-bot",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3161,
-    "timeDay": 5586,
-    "timeWeek": 2186,
-    "timeMonth": 2626,
-    "timeYear": 3571,
+    "time": 3158,
+    "timeDay": 3040,
+    "timeWeek": 2073,
+    "timeMonth": 2629,
+    "timeYear": 3567,
     "dailyMinutesDown": {}
   }
 ]
