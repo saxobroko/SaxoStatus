@@ -1,7 +1,7 @@
 url: https://music.saxobroko.com
-status: up
-code: 200
-responseTime: 641
-lastUpdated: 2023-03-27T23:13:22.522Z
+status: down
+code: 502
+responseTime: 22446
+lastUpdated: 2023-03-29T20:42:37.635Z
 startTime: Sun Aug 29 2021 17:02:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
